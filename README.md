@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Junaid Siddiqi! 👋
 
-<!--
-**junaidsiddiqi/junaidsiddiqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🌟 **Cybersecurity Enthusiast**  
+  Currently working on projects like home labs and network analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Certifications:**  
+  Google Cybersecurity Certificate, ISC2 CC.
+
+- 🔗 **Connect with me:**  
+  [LinkedIn](https://linkedin.com/in/jsiddiq)
+
+### 📌 Featured Projects:
+*in progress*

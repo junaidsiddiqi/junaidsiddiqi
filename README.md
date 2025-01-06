@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here's a bit about me:
   Google Cybersecurity Certificate, ISC2 CC.
 
 - 🔗 **Connect with me:**  
-  [LinkedIn](https://linkedin.com/in/jsiddiq)
+  [LinkedIn](https://linkedin.com/in/jsiddiqi)
 
 ### 📌 Featured Projects:
 *in progress*

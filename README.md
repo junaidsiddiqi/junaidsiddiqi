@@ -12,4 +12,4 @@ Welcome to my GitHub profile! Here's a bit about me:
   [LinkedIn](https://linkedin.com/in/jsiddiqi)
 
 ### 📌 Featured Projects:
-*in progress*
+- [Virtual Home Lab](https://github.com/junaidsiddiqi/homelab-project)

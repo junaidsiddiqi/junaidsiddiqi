@@ -1,5 +1,5 @@
 # Hi, I'm Junaid Siddiqi! 👋
-
+<a href="https://www.linkedin.com/in/jsiddiqi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 Welcome to my GitHub profile! Here's a bit about me:
 
 💻 **Cybersecurity Enthusiast | Aspiring IT Professional**  
@@ -14,10 +14,6 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 💻 **Certifications:**  
 Google Cybersecurity Certificate, ISC2 CC.
-
-🔗 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jsiddiqi/)
-[LinkedIn](https://linkedin.com/in/jsiddiqi)
 
 ### 📌 Featured Projects:
 - [Virtual Home Lab](https://github.com/junaidsiddiqi/homelab-project)

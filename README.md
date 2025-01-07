@@ -3,7 +3,9 @@
 
 Welcome to my GitHub profile! Here's a bit about me:
 
-💻 **Cybersecurity Enthusiast | Aspiring IT Professional**  
+I am a current student at the University of Houston majoring in Computer Information Systems which has sparked my interest in cybersecurity and my desire to break into the tech industry.
+
+💻 **Aspiring IT Professional**  
 🔒 Passionate about network security, ethical hacking, and IT problem-solving.
 
 🎯 **Goals:**

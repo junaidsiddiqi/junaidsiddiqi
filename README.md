@@ -13,3 +13,4 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ### 📌 Featured Projects:
 - [Virtual Home Lab](https://github.com/junaidsiddiqi/homelab-project)
+- [Cisco Packet Tracer](https://github.com/junaidsiddiqi/packet-tracer-project)

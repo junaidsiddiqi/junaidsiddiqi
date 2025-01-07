@@ -2,8 +2,11 @@
 
 Welcome to my GitHub profile! Here's a bit about me:
 
-- 🌟 **Cybersecurity Enthusiast**  
-  Currently working on projects like home labs and network analysis.
+- 💻 **Cybersecurity Enthusiast | Aspiring IT Professional**  
+- 🔒 Passionate about network security, ethical hacking, and IT problem-solving.
+
+- 🎯 **Goals**
+- Breaking into IT and cybersecurity, focusing on building secure networks and defending against cyber threats.
 
 - 💻 **Certifications:**  
   Google Cybersecurity Certificate, ISC2 CC.

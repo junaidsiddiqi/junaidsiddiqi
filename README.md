@@ -6,6 +6,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 🔒 Passionate about network security, ethical hacking, and IT problem-solving.
 
 🎯 **Goals**
+
 Breaking into IT and cybersecurity, focusing on building secure networks and defending against cyber threats.
 
 💻 **Certifications:**  

@@ -2,17 +2,17 @@
 
 Welcome to my GitHub profile! Here's a bit about me:
 
-  💻 **Cybersecurity Enthusiast | Aspiring IT Professional**  
-  🔒 Passionate about network security, ethical hacking, and IT problem-solving.
+💻 **Cybersecurity Enthusiast | Aspiring IT Professional**  
+🔒 Passionate about network security, ethical hacking, and IT problem-solving.
 
-  🎯 **Goals**
+🎯 **Goals**
 - Breaking into IT and cybersecurity, focusing on building secure networks and defending against cyber threats.
 
-  💻 **Certifications:**  
-  Google Cybersecurity Certificate, ISC2 CC.
+💻 **Certifications:**  
+Google Cybersecurity Certificate, ISC2 CC.
 
-  🔗 **Connect with me:**  
-  [LinkedIn](https://linkedin.com/in/jsiddiqi)
+🔗 **Connect with me:**  
+[LinkedIn](https://linkedin.com/in/jsiddiqi)
 
 ### 📌 Featured Projects:
 - [Virtual Home Lab](https://github.com/junaidsiddiqi/homelab-project)

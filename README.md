@@ -24,4 +24,5 @@ Google Cybersecurity Certificate, ISC2 CC.
 - [Python Keylogger](https://github.com/junaidsiddiqi/python-keylogger-project)
 - [UH Website](https://github.com/junaidsiddiqi/UH-cafeteria-wesbite)
 - [Python Turtle Designs](https://github.com/junaidsiddiqi/python-turtle-project)
+- [SQL & Excel Database Analysis](https://github.com/junaidsiddiqi/sql-database-Project)
 - [MATLAB Interactive App](https://github.com/junaidsiddiqi/matlab-app-project)

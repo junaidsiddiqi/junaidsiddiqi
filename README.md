@@ -20,6 +20,7 @@ Google Cybersecurity Certificate, ISC2 CC.
 
 ### 📌 Featured Projects:
 - [Virtual Home Lab](https://github.com/junaidsiddiqi/homelab-project)
+- [Wireshark Network Traffic Analysis](https://github.com/junaidsiddiqi/wireshark-project)
 - [Cisco Packet Tracer](https://github.com/junaidsiddiqi/packet-tracer-project)
 - [Python Keylogger](https://github.com/junaidsiddiqi/python-keylogger-project)
 - [UH Website](https://github.com/junaidsiddiqi/UH-cafeteria-wesbite)

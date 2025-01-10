@@ -26,3 +26,4 @@ Google Cybersecurity Certificate, ISC2 CC.
 - [Python Turtle Designs](https://github.com/junaidsiddiqi/python-turtle-project)
 - [SQL & Excel Database Analysis](https://github.com/junaidsiddiqi/sql-database-Project)
 - [MATLAB Interactive App](https://github.com/junaidsiddiqi/matlab-app-project)
+- [Firewall Configuration](https://github.com/junaidsiddiqi/firewall-configuration-project)

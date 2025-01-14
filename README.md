@@ -5,9 +5,6 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 I am a current student at the University of Houston majoring in Computer Information Systems, which has sparked my interest in cybersecurity and my desire to break into the tech industry.
 
-💻 **Aspiring IT Professional**  
-🔒 Passionate about network security, ethical hacking, and IT problem-solving.
-
 🎯 **Goals:**
 
 - Breaking into IT and cybersecurity, focusing on building secure networks and defending against cyber threats.
@@ -15,8 +12,6 @@ I am a current student at the University of Houston majoring in Computer Informa
 - Pursue advanced certifications like CompTIA Security+, CEH, or CISSP
 - Seek internship opportunities in IT or cybersecurity to apply learning in practical environments.
 
-💻 **Certifications:**  
-Google Cybersecurity Certificate, ISC2 CC.
 
 ### 📌 Featured Projects:
 - [Virtual Home Lab](https://github.com/junaidsiddiqi/homelab-project)

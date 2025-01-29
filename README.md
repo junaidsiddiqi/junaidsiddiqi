@@ -13,7 +13,7 @@ I am a current student at the University of Houston majoring in Computer Informa
 - Seek internship opportunities in IT or cybersecurity to apply learning in practical environments.
   
 📜 **Certifications:**
-- [Google Cybersecurity Certificate](https://github.com/junaidsiddiqi/homelab-project)
+- [Google Cybersecurity Certificate](https://github.com/junaidsiddiqi/googlecert)
   
 📌 **Featured Projects**:
 - [Virtual Home Lab](https://github.com/junaidsiddiqi/homelab-project)

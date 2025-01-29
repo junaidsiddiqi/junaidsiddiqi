@@ -11,7 +11,8 @@ I am a current student at the University of Houston majoring in Computer Informa
 - Gain hands-on experience in threat analysis, penetration testing, and network defense.
 - Pursue advanced certifications like CompTIA Security+, CEH, or CISSP
 - Seek internship opportunities in IT or cybersecurity to apply learning in practical environments.
-
+  
+📜 **Certifications:**
 
 ### 📌 Featured Projects:
 - [Virtual Home Lab](https://github.com/junaidsiddiqi/homelab-project)

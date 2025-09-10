@@ -9,7 +9,7 @@ I am a current student at the University of Houston majoring in Computer Informa
 
 - Breaking into IT and cybersecurity, focusing on building secure networks and defending against cyber threats.
 - Gain hands-on experience in threat analysis, penetration testing, and network defense.
-- Pursue advanced certifications like CompTIA Security+, CEH, or CISSP
+- Pursue advanced certifications like CompTIA Security+, Network+, or CEH 
 - Seek internship opportunities in IT or cybersecurity to apply learning in practical environments.
   
 📜 **Certifications:**

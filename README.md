@@ -14,6 +14,8 @@ I am a current student at the University of Houston majoring in Computer Informa
   
 📜 **Certifications:**
 - [Google Cybersecurity Certificate](https://github.com/junaidsiddiqi/googlecert)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/3fac51c5-087e-4c87-98e5-195de5a1f9c7/linked_in_profile)
+- [Kaggle: Introduction to Programming](https://www.kaggle.com/learn/certification/junaidsiddiqi/python)
   
 📌 **Featured Projects**:
 - [Virtual Home Lab](https://github.com/junaidsiddiqi/homelab-project)

@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
-I am a current student at the University of Houston majoring in Computer Information Systems, which has sparked my interest in cybersecurity and my desire to break into the tech industry.
+I am a Computer Information Systems student at the University of Houston, focused on developing skills in cybersecurity and IT.
 
 🎯 **Goals:**
 

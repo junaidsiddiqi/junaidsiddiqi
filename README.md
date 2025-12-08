@@ -18,6 +18,7 @@ I am a Computer Information Systems student at the University of Houston, focuse
 - [Kaggle: Introduction to Programming](https://www.kaggle.com/learn/certification/junaidsiddiqi/python)
   
 📌 **Featured Projects**:
+- [Recipe Manager and Cooking Helper](https://github.com/junaidsiddiqi/recipe_manager_project)
 - [Virtual Home Lab](https://github.com/junaidsiddiqi/homelab-project)
 - [Wireshark Network Traffic Analysis](https://github.com/junaidsiddiqi/wireshark-project)
 - [Cisco Packet Tracer](https://github.com/junaidsiddiqi/packet-tracer-project)

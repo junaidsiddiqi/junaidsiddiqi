@@ -10,7 +10,7 @@ Right now I'm looking for opportunities in cybersecurity or IT support where I c
 
 
 <a href="https://www.linkedin.com/in/jsiddiqi/">
-  <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
 </a>
 
 ## 🛠️ Skill Stack  

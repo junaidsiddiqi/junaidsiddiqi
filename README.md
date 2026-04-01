@@ -1,6 +1,6 @@
 ## Hi, I'm Junaid Siddiqi! 👋  
 
-<a href="mailto:your@email.com">
+<a href="mailto:junaidasiddiqi@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 

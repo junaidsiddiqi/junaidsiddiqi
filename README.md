@@ -22,9 +22,9 @@ Right now I'm looking for opportunities in cybersecurity or IT support where I c
 ## 📜 Certifications
 
 [<img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="110" />](https://www.credly.com/badges/6187dc9f-7be5-4119-a897-f79279b0b072)
-[<img src="https://images.credly.com/size/340x340/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" width="110" />](https://www.credly.com/badges/3fac51c5-087e-4c87-98e5-195de5a1f9c7)
+[<img src="https://images.credly.com/size/340x340/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" width="110" />](https://www.credly.com/badges/33e31c03-4e1a-4ceb-a368-42610de617d2)
 [<img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="110" />](https://www.credly.com/badges/0c2f823d-3a43-4275-a383-249e4fdb8ba9)
-[<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" />](https://www.credly.com/badges/33e31c03-4e1a-4ceb-a368-42610de617d2)
+[<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" />](https://www.credly.com/badges/3fac51c5-087e-4c87-98e5-195de5a1f9c7)
 
 
 

@@ -1,12 +1,12 @@
 ## Hi, I'm Junaid Siddiqi! 👋  
 
-<a href="https://www.linkedin.com/in/jsiddiqi/">
+<a href="https://www.linkedin.com/in/jsiddiqi/" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/LinkedIn-0072b1?&style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:junaidasiddiqi@gmail.com">
+<a href="mailto:junaidasiddiqi@gmail.com" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.credly.com/users/junaid-siddiqi.ea11b46e/badges#credly">
+<a href="https://www.credly.com/users/junaid-siddiqi.ea11b46e/badges#credly" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Credly-FF6B00?&style=flat-square&logo=credly&logoColor=white" />
 </a>
 

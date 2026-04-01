@@ -1,10 +1,10 @@
 ## Hi, I'm Junaid Siddiqi! 👋
 
-<p align="center">
+
   <a href="https://www.linkedin.com/in/jsiddiqi/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+
 
 I am a Computer Information Systems student at the University of Houston, focused on developing skills in cybersecurity and IT. I’m passionate about building hands-on projects that strengthen my skills in network security, cloud computing, and system administration.
 

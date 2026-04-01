@@ -1,6 +1,10 @@
 ## Hi, I'm Junaid Siddiqi! 👋
 
-<a href="https://www.linkedin.com/in/jsiddiqi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jsiddiqi/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 I am a Computer Information Systems student at the University of Houston, focused on developing skills in cybersecurity and IT. I’m passionate about building hands-on projects that strengthen my skills in network security, cloud computing, and system administration.
 
@@ -8,8 +12,21 @@ Explore my repositories below to see my work in action—from cybersecurity labs
 
 I’m currently seeking opportunities in cybersecurity and IT support where I can contribute, learn, and gain hands-on experience securing systems and networks.
 
-## Skill Stack
-[![My Skills](https://skillicons.dev/icons?i=py,git,html,css,js,nodejs,mysql,aws,vscode,ubuntu,kali)](https://skillicons.dev)
+---
+
+## 🛠️ Skill Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,git,html,css,js,nodejs,mysql,aws,vscode,ubuntu,kali" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+</p>
+
+---
 
 ## 📜 Certifications:
 - [Google Cybersecurity Certificate](https://github.com/junaidsiddiqi/googlecert)
@@ -18,6 +35,8 @@ I’m currently seeking opportunities in cybersecurity and IT support where I ca
 - [CompTIA Security+](https://www.credly.com/badges/0c2f823d-3a43-4275-a383-249e4fdb8ba9/linked_in?t=ta767m)
 - [CompTIA Network+](https://www.credly.com/badges/33e31c03-4e1a-4ceb-a368-42610de617d2)
   
+---
+
 ## 📌 Featured Projects:
 - [Recipe Manager and Cooking Helper](https://github.com/junaidsiddiqi/recipe_manager_project)
 - [Virtual Home Lab](https://github.com/junaidsiddiqi/homelab-project)

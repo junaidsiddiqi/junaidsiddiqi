@@ -1,9 +1,16 @@
 ## Hi, I'm Junaid Siddiqi! 👋  
 
+<a href="https://www.linkedin.com/in/jsiddiqi/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 <a href="mailto:junaidasiddiqi@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<a href="https://www.credly.com/users/junaid-siddiqi.ea11b46e/badges#credly">
+  <img src="https://img.shields.io/badge/-Credly-FF6B00?&style=for-the-badge&logo=credly&logoColor=white" />
+</a>
 
 
 I am a Computer Information Systems student at the University of Houston, focused on developing skills in cybersecurity and IT.  

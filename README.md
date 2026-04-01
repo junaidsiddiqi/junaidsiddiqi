@@ -10,7 +10,7 @@ Right now I'm looking for opportunities in cybersecurity or IT support where I c
 
 
 <a href="https://www.linkedin.com/in/jsiddiqi/">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" />
 </a>
 
 ## 🛠️ Skill Stack  
@@ -28,7 +28,7 @@ Right now I'm looking for opportunities in cybersecurity or IT support where I c
 
 
 
-## 📌 Featured Projects  
+## 📌 Projects  
 
 - [Recipe Manager and Cooking Helper](https://github.com/junaidsiddiqi/recipe_manager_project)  
 - [Virtual Home Lab](https://github.com/junaidsiddiqi/homelab-project)  

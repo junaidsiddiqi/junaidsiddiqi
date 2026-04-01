@@ -12,7 +12,7 @@ Right now I'm looking for opportunities in cybersecurity or IT support where I c
 <a href="https://www.linkedin.com/in/jsiddiqi/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
 </a>
-https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png
+
 ## 🛠️ Skill Stack  
 
 [![My Skills](https://skillicons.dev/icons?i=py,git,html,css,js,nodejs,mysql,aws,vscode,ubuntu,kali)](https://skillicons.dev)

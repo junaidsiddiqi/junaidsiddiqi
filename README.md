@@ -1,8 +1,8 @@
-# Hi, I'm Junaid Siddiqi! 
+Hi, I'm Junaid Siddiqi! 
+I am a Computer Information Systems student at the University of Houston, focused on developing skills in cybersecurity and IT.
+
 <a href="https://www.linkedin.com/in/jsiddiqi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Computer Information Systems student at the University of Houston, focused on developing skills in cybersecurity and IT.
-  
 📜 **Certifications:**
 - [Google Cybersecurity Certificate](https://github.com/junaidsiddiqi/googlecert)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/3fac51c5-087e-4c87-98e5-195de5a1f9c7/linked_in_profile)

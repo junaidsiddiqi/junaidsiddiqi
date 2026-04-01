@@ -1,16 +1,14 @@
 ## Hi, I'm Junaid Siddiqi! 👋  
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/jsiddiqi/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="mailto:junaidasiddiqi@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/junaidsiddiqi">
+    <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
-  <a href="https://www.credly.com/users/junaid-siddiqi.ea11b46e">
-    <img src="https://img.shields.io/badge/-Certifications-FF6B00?&style=for-the-badge&logo=credly&logoColor=white" />
+  <a href="mailto:junaidasiddiqi@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 

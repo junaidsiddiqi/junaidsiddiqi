@@ -9,7 +9,7 @@ Explore my repositories below to see my work in action—from cybersecurity labs
 I’m currently seeking opportunities in cybersecurity and IT support where I can contribute, learn, and gain hands-on experience securing systems and networks.
 
 ## Skill Stack
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,nodejs,mysql,aws,vscode,ubuntu,kali&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,git,html,css,js,nodejs,mysql,aws,vscode,ubuntu,kali)](https://skillicons.dev)
 
 📜 **Certifications:**
 - [Google Cybersecurity Certificate](https://github.com/junaidsiddiqi/googlecert)

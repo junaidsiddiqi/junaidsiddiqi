@@ -1,6 +1,7 @@
 ## Hi, I'm Junaid Siddiqi! 👋
 
-I am a Computer Information Systems student at the University of Houston, focused on developing skills in cybersecurity and IT.
+I am a Computer Information Systems student at the University of Houston, focused on developing skills in cybersecurity and IT. I’m passionate about building hands-on projects that strengthen my skills in network security, cloud computing, and system administration.
+Explore my repositories below to see my work in action—from cybersecurity labs and network simulations to full-stack applications and data analysis projects! Each project highlights my problem-solving approach, technical skills, and commitment to continuous learning. I’m currently seeking opportunities in cybersecurity and IT support where I can contribute, learn, and gain hands-on experience securing systems and networks.
 
 <a href="https://www.linkedin.com/in/jsiddiqi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 

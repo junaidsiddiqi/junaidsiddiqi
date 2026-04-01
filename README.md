@@ -1,10 +1,10 @@
 ## Hi, I'm Junaid Siddiqi! 👋
 
-
+<p align="center">
   <a href="https://www.linkedin.com/in/jsiddiqi/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
+</p>
 
 I am a Computer Information Systems student at the University of Houston, focused on developing skills in cybersecurity and IT. I’m passionate about building hands-on projects that strengthen my skills in network security, cloud computing, and system administration.
 
@@ -21,9 +21,9 @@ I’m currently seeking opportunities in cybersecurity and IT support where I ca
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" height="50" />
 </p>
 
 ---

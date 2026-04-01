@@ -10,8 +10,8 @@ Right now I'm looking for opportunities in cybersecurity or IT support where I c
 
 
 <a href="https://www.linkedin.com/in/jsiddiqi/">
-  <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" />
-</a>
+  <img src="https://img.shields.io/badge/Connect-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>>
 
 ## 📜 Certifications
 

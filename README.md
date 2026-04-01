@@ -11,10 +11,10 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
----
 
 
- I'm a Computer Information Systems student at UH, and I'm really into cybersecurity and IT. 
+
+ I'm a Computer Information Systems student at UH, with a focus on cybersecurity and IT. 
  
  I've been spending a lot of my time outside of class building projects and getting hands-on experience because I learn best by actually doing things.
  
@@ -22,7 +22,7 @@ You'll find a mix of stuff in my repos — security labs, network simulations, w
 
 Right now I'm looking for opportunities in cybersecurity or IT support where I can actually contribute and keep growing. If something here catches your eye, feel free to reach out!
 
----
+
 
 
 ## 🛠️ Skill Stack  

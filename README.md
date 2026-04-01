@@ -1,5 +1,7 @@
 ## Hi, I'm Junaid Siddiqi! 👋  
 
+---
+
 <a href="https://www.linkedin.com/in/jsiddiqi/">
   <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -21,6 +23,7 @@ Explore my repositories below to see my work in action—from cybersecurity labs
 
 I’m currently seeking opportunities in cybersecurity and IT support where I can contribute, learn, and gain hands-on experience securing systems and networks.  
 
+---
 
 
 ## 🛠️ Skill Stack  
@@ -36,7 +39,7 @@ I’m currently seeking opportunities in cybersecurity and IT support where I ca
 - [CompTIA Security+](https://www.credly.com/badges/0c2f823d-3a43-4275-a383-249e4fdb8ba9/linked_in?t=ta767m)  
 - [CompTIA Network+](https://www.credly.com/badges/33e31c03-4e1a-4ceb-a368-42610de617d2)  
 
----
+
 
 ## 📌 Featured Projects  
 

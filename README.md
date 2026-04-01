@@ -9,7 +9,9 @@ You'll find a mix of stuff in my repos — security labs, network simulations, w
 Right now I'm looking for opportunities in cybersecurity or IT support where I can actually contribute and keep growing. If something here catches your eye, feel free to reach out!
 
 
-
+<a href="https://www.linkedin.com/in/jsiddiqi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ## 🛠️ Skill Stack  
 

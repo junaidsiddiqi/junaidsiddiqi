@@ -35,9 +35,8 @@ I’m currently seeking opportunities in cybersecurity and IT support where I ca
 
 ## 📜 Certifications  
 
-- [Google Cybersecurity Certificate](https://github.com/junaidsiddiqi/googlecert)  
+- [Google Cybersecurity Certificate](https://www.credly.com/earner/earned/badge/6187dc9f-7be5-4119-a897-f79279b0b072)  
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/3fac51c5-087e-4c87-98e5-195de5a1f9c7/linked_in_profile)  
-- [Kaggle: Introduction to Programming](https://www.kaggle.com/learn/certification/junaidsiddiqi/python)  
 - [CompTIA Security+](https://www.credly.com/badges/0c2f823d-3a43-4275-a383-249e4fdb8ba9/linked_in?t=ta767m)  
 - [CompTIA Network+](https://www.credly.com/badges/33e31c03-4e1a-4ceb-a368-42610de617d2)  
 

@@ -1,9 +1,5 @@
 ## Hi, I'm Junaid Siddiqi! 👋  
 
-<a href="https://www.linkedin.com/in/jsiddiqi/">
-  <img src="https://img.shields.io/badge/Connect-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
  I'm a Computer Information Systems student at UH, with a focus on cybersecurity and IT. 
  
  I've been spending a lot of my time outside of class building projects and getting hands-on experience because I learn best by actually doing things.
@@ -11,6 +7,10 @@
 You'll find a mix of stuff in my repos — security labs, network simulations, web apps, and some data projects too. Each one taught me something new and pushed me to think through real problems.
 
 Right now I'm looking for opportunities in cybersecurity or IT support where I can actually contribute and keep growing. If something here catches your eye, feel free to reach out!
+
+<a href="https://www.linkedin.com/in/jsiddiqi/">
+  <img src="https://img.shields.io/badge/Connect-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ## 📜 Certifications
 

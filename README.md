@@ -1,4 +1,4 @@
-**Hi, I'm Junaid Siddiqi!** 
+#Hi, I'm Junaid Siddiqi! 
 
 I am a Computer Information Systems student at the University of Houston, focused on developing skills in cybersecurity and IT.
 

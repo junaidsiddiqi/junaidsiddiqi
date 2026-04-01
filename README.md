@@ -31,7 +31,7 @@ Right now I'm looking for opportunities in cybersecurity or IT support where I c
   <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="110" />
 </a>
 <a href="https://www.credly.com/badges/33e31c03-4e1a-4ceb-a368-42610de617d2">
-  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" />
+  <img src="https://images.credly.com/size/340x340/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" width="110" />
 </a>
 
 

@@ -1,18 +1,5 @@
 ## Hi, I'm Junaid Siddiqi! 👋  
 
-
-<a href="https://www.linkedin.com/in/jsiddiqi/">
-  <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.credly.com/users/junaid-siddiqi.ea11b46e/badges#credly">
-  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
-</a>
-<a href="https://mail.google.com/mail/?view=cm&to=junaidasiddiqi@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-## 
-
  I'm a Computer Information Systems student at UH, with a focus on cybersecurity and IT. 
  
  I've been spending a lot of my time outside of class building projects and getting hands-on experience because I learn best by actually doing things.

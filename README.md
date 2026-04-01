@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-
 ## 
 
  I'm a Computer Information Systems student at UH, with a focus on cybersecurity and IT. 

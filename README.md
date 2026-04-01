@@ -4,7 +4,7 @@
  
  I've been spending a lot of my time outside of class building projects and getting hands-on experience because I learn best by actually doing things.
  
-You'll find a mix of stuff in my repos — security labs, network simulations, web apps, and some data projects too. Each one taught me something new and pushed me to think through real problems.
+You'll find a mix of stuff in my repos — security labs, network simulations, web apps, and some coding & data projects too. Each one taught me something new and pushed me to think through real problems.
 
 Right now I'm looking for opportunities in cybersecurity or IT support where I can actually contribute and keep growing. If something here catches your eye, feel free to reach out!
 

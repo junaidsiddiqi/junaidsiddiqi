@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+---
+
+
 I am a Computer Information Systems student at the University of Houston, focused on developing skills in cybersecurity and IT.  
 
 I’m passionate about building hands-on projects that strengthen my skills in network security, cloud computing, and system administration.  

@@ -1,7 +1,5 @@
-# Hi, I'm Junaid Siddiqi! 👋
+# Hi, I'm Junaid Siddiqi! 
 <a href="https://www.linkedin.com/in/jsiddiqi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-Welcome to my GitHub profile! Here's a little bit about me:
 
 I am a Computer Information Systems student at the University of Houston, focused on developing skills in cybersecurity and IT.
   

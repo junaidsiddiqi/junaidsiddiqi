@@ -13,12 +13,6 @@ Right now I'm looking for opportunities in cybersecurity or IT support where I c
   <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" />
 </a>
 
-## 🛠️ Skill Stack  
-
-[![My Skills](https://skillicons.dev/icons?i=py,git,html,css,js,nodejs,mysql,aws,vscode,ubuntu,kali)](https://skillicons.dev)
-
-
-
 ## 📜 Certifications
 
 [<img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="110" />](https://www.credly.com/badges/6187dc9f-7be5-4119-a897-f79279b0b072)
@@ -26,6 +20,9 @@ Right now I'm looking for opportunities in cybersecurity or IT support where I c
 [<img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="110" />](https://www.credly.com/badges/0c2f823d-3a43-4275-a383-249e4fdb8ba9)
 [<img src="https://images.credly.com/size/340x340/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" width="110" />](https://www.credly.com/badges/33e31c03-4e1a-4ceb-a368-42610de617d2)
 
+## 🛠️ Skill Stack  
+
+[![My Skills](https://skillicons.dev/icons?i=py,git,html,css,js,nodejs,mysql,aws,vscode,ubuntu,kali)](https://skillicons.dev)
 
 
 ## 📌 Projects  

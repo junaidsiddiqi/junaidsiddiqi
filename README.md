@@ -21,7 +21,7 @@ Right now, I'm looking for opportunities in cybersecurity or IT support where I 
 
 ## 🛠️ Skill Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=py,git,html,css,js,nodejs,matlab,mysql,aws,vscode,ubuntu,kali,linux)]
+![My Skills](https://skillicons.dev/icons?i=py,git,html,css,js,nodejs,matlab,mysql,aws,vscode,ubuntu,kali,linux)
 
 
 ## 📌 Projects  

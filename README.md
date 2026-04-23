@@ -24,6 +24,7 @@ Right now, I'm looking for opportunities in cybersecurity or IT support where I 
 ![My Skills](https://skillicons.dev/icons?i=py,git,html,css,js,nodejs,matlab,mysql,aws,vscode,ubuntu,kali,linux)
 
 ## ⭐ Featured Projects
+- [Active Directory SIEM Lab with AI Automation](https://github.com/junaidsiddiqi/active-directory)
 - [Network-Wide DNS Ad Blocker](https://github.com/junaidsiddiqi/ad-blocker)
 - [Cloud Honeypot](https://github.com/junaidsiddiqi/honeypot)
 

@@ -27,10 +27,10 @@ Right now, I'm looking for opportunities in cybersecurity or IT support where I 
 - [Active Directory SIEM Lab with AI Automation](https://github.com/junaidsiddiqi/active-directory)
 - [Cloud Honeypot](https://github.com/junaidsiddiqi/honeypot)
 - [pfSense DoS Defense Lab](https://github.com/junaidsiddiqi/honeypot)
+
+
+## 📌 Projects
 - [Network-Wide DNS Ad Blocker](https://github.com/junaidsiddiqi/ad-blocker)
-
-
-## 📌 Projects  
 - [Recipe Manager](https://github.com/junaidsiddiqi/recipe_manager_project) 
 - [Virtual Home Lab](https://github.com/junaidsiddiqi/homelab-project)  
 - [Wireshark Network Traffic Analysis](https://github.com/junaidsiddiqi/wireshark-project)  

@@ -27,6 +27,7 @@ Right now, I'm looking for opportunities in cybersecurity or IT support where I 
 - [Active Directory SIEM Lab with AI Automation](https://github.com/junaidsiddiqi/active-directory)
 - [Cloud Honeypot](https://github.com/junaidsiddiqi/honeypot)
 - [pfSense Firewall & DoS Defense Lab](https://github.com/junaidsiddiqi/pfsense-lab)
+- [SOC Azure Honeypot Lab](https://github.com/junaidsiddiqi/soc-honeypot/blob/main/README.md)
 
 
 ## 📌 Projects
